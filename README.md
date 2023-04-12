@@ -18,9 +18,10 @@ This is a Python-based AI model that leverages machine learning and natural lang
     ```
 
 2. Run the PDF reader and question answering script by running the following command:
-    ```
-    python pdf_reader.py
-    ```
+    
+    use jupyter note book to run the project 
+but install all the libraries required
+    
 
 3. Provide the path to the PDF document that you want to process. The model will read the PDF, divide it into chunks, and store them in the Chroma DB.
 
