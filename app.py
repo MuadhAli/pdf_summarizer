@@ -8,7 +8,7 @@ from langchain.vectorstores import Chroma
 from langchain.text_splitter import CharacterTextSplitter
 from langchain import OpenAI, VectorDBQA
 from langchain.document_loaders import DirectoryLoader
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '....'
 
 
 
